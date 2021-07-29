@@ -5,5 +5,7 @@ Access to safe drinking-water is essential to health, a basic human right and a 
 
 
 
-The dataset used was acquired at Kaggle[https://www.kaggle.com/adityakadiwal/water-potability?select=water_potability.csv].
- 
+The dataset used was acquired at [Kaggle](https://www.kaggle.com/adityakadiwal/water-potability?select=water_potability.csv), and the csv file can be found [here](https://github.com/julie9843/Water-Quality/blob/main/water_potability.csv). 
+
+
+### Data Exploration 
