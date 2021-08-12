@@ -14,4 +14,6 @@ The dataset used was acquired at [Kaggle](https://www.kaggle.com/adityakadiwal/w
 ### Data Cleaning 
 Null values were found on 3 columns - pH, Sulfate and Trihalomethanes. pH and Trihalomethanes were dropped, and Sulfate values were replaced with its average value. 
 
+The jupyter notebook corresponding to data cleaning can be found [here](https://github.com/julie9843/Water-Quality/blob/main/Data%20Cleaning.ipynb).
+
 ### Model Building
